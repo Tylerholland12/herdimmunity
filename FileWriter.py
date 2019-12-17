@@ -26,3 +26,6 @@ class FileWriter:
         results_file.write(f"Total Vaccinated: {total_vaccinated}\n")
 
         results_file.close()
+
+
+        

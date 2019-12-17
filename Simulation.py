@@ -95,7 +95,6 @@ class Simulation:
         random.shuffle(self.population)
 
         self.print_population()
-        #print("Infected", self.get_infected())
         
         time_step_counter = 0
 
@@ -139,8 +138,6 @@ class Simulation:
 
             for i in range(10):
                 #TODO: get a random index for the population list
-                # random_index = randint(0, len(self.population) - 1)
-
 
                 #TODO: using the random index get a random person from the population
                 random_person = random.choice(self.population)

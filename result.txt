@@ -4,3 +4,4 @@ Population Size: 16
 Initial Vaccinated: 5
 Initial Healthy: 10
 Initial Infected: 1
+

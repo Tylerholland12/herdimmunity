@@ -5,3 +5,5 @@ class Virus:
         self.name = name #string
         self.reproduction_num = reproduction_num #a float number between 0.0 and 1.0
         self.mortality_num = mortality_num #a float number between 0.0 and 1.0
+
+        

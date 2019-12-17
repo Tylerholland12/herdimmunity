@@ -8,3 +8,4 @@ Initial Infected: 200
 Simulation Ended after 3 turns
 Total Dead: 1000
 Total Vaccinated: 200
+

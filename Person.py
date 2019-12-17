@@ -13,6 +13,7 @@ class Person:
         self.infection = infection #virus object
         
 
+
     def did_survive_infection(self):
         ''' Generate a random number between 0.0 and 1.0 and compare to the virus's mortality_num.
         If the random number is smaller, person dies from the disease. Set the person's is alive attribute to False
